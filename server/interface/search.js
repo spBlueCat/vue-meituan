@@ -4,7 +4,7 @@ import axios from './utils/axios'
 
 let router = new Router({prefix:'/search'});
 
-const sign = '6f781baba3f3e9b38478bd2a7b2d3850';
+const sign = '******;
 
 //根据用户输入搜索框的内容返回数据
 /**
