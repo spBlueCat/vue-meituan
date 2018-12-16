@@ -16,7 +16,7 @@ export default {
       return '1750198339@qq.com'
     },
     get pass(){
-      return 'dennflfuakhlfcdd'  //SMTP服务授权码
+      return '********'  //SMTP服务授权码
     },
     //设置验证码
     get code(){
